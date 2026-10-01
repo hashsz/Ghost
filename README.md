@@ -4,7 +4,7 @@ Ghost is a portable productivity hub for Windows that brings together prompts, M
 
 **Windows x64 · Portable · Local data · Customizable interface**
 
-## ⬇️ [Download](https://drive.google.com/file/d/1H-itoHjkluuBr2MX0LoebHSS_gWjGp0p/view?usp=sharing)
+## ⬇️ [𝔻𝕠𝕨𝕟𝕝𝕠𝕒𝕕](https://drive.google.com/file/d/1H-itoHjkluuBr2MX0LoebHSS_gWjGp0p/view?usp=sharing)
 
 ## What you can do
 
@@ -51,3 +51,7 @@ On the right side of my Windows screen, you can see the app's notch—a quick-ac
 - It takes up about 75/Mb of disk/SSD space.
 - It uses an average of about 150/Mb of the PC's RAM.
 - You can enable it to start with Windows.
+
+## Support
+If you have any questions, you can contact me on Discord.
+Nickname: yix.
