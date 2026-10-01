@@ -4,7 +4,7 @@ Ghost é uma central de produtividade portátil para Windows que reúne prompts,
 
 **Windows x64 · Portátil · Dados locais · Interface personalizável**
 
-[⬇️ Baixar Ghost para Windows](https://drive.google.com/file/d/1zZu0Pie0yuEKfx-Dxh8Ku2iZHMlJwd8p/view?usp=sharing) · [Ver versões](https://github.com/SEU-USUARIO/ghost/releases) · [Relatar um problema](https://github.com/SEU-USUARIO/ghost/issues)
+[⬇️ Download](https://drive.google.com/file/d/1H-itoHjkluuBr2MX0LoebHSS_gWjGp0p/view?usp=sharing)
 
 ## O que você pode fazer
 
@@ -26,32 +26,6 @@ O pacote portátil inclui o runtime .NET. Extraia a pasta completa e abra `ghost
 
 ## Imagens
 
-<!-- Adicione capturas reais da versão publicada nos caminhos abaixo antes de remover este comentário e ativar as imagens.
-![Biblioteca do Ghost com exemplos organizados por categoria](docs/images/ghost-biblioteca.png)
-![Busca global do Ghost exibindo resultados](docs/images/ghost-busca.png)
-![Notch do Ghost aberto na borda da tela](docs/images/ghost-notch.png)
-![Personalização de aparência no Ghost](docs/images/ghost-aparencia.png)
--->
+Aba prompts:
+<img width="1142" height="781" alt="image" src="https://github.com/user-attachments/assets/f77f72cc-14c2-48e3-9406-3e2039bac642" />
 
-## Baixar e usar
-
-1. Baixe `Ghost-Portable.zip` na [versão mais recente](https://github.com/SEU-USUARIO/ghost/releases/latest).
-2. Extraia todo o conteúdo do ZIP para uma pasta.
-3. Abra `ghost.exe` dentro da pasta extraída.
-4. Mantenha a pasta `support` junto do executável.
-
-Para transportar o aplicativo com seus dados, finalize o Ghost pelas configurações e copie a pasta inteira, incluindo `save`.
-
-Fechar ou minimizar a janela normalmente mantém o Ghost na bandeja do Windows. Use **Finalizar** nas configurações para encerrá-lo.
-
-As funções de instalação pelo WinGet dependem da disponibilidade dessa ferramenta no Windows. Instalações e alterações do sistema exigem ação e confirmação do usuário e podem solicitar permissão de administrador. Fontes opcionais precisam estar instaladas no Windows; o aplicativo usa uma fonte substituta quando necessário.
-
-## Código-fonte
-
-Para estudar ou compilar o projeto, use **Code → Download ZIP** ou clone o repositório. Esse download contém o código; para executar o aplicativo pronto, baixe o pacote portátil em Releases.
-
-O projeto utiliza C#, .NET 10, WPF e SQLite. A versão atual fica em `src/GhostClone1`, cujo nome foi mantido por compatibilidade histórica. Consulte as instruções técnicas de compilação e `THIRD-PARTY-NOTICES.txt` para dependências e avisos de terceiros.
-
-## Feedback
-
-Encontrou um problema ou tem uma sugestão? Abra uma [Issue](https://github.com/SEU-USUARIO/ghost/issues) com a versão usada, os passos para reproduzir e, se possível, uma captura de tela.
