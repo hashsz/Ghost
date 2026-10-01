@@ -4,7 +4,8 @@ Ghost is a portable productivity hub for Windows that brings together prompts, M
 
 **Windows x64 · Portable · Local data · Customizable interface**
 
-[⬇️ Download](https://drive.google.com/file/d/1H-itoHjkluuBr2MX0LoebHSS_gWjGp0p/view?usp=sharing)
+## ⬇️ Download
+[Link](https://drive.google.com/file/d/1H-itoHjkluuBr2MX0LoebHSS_gWjGp0p/view?usp=sharing)
 
 ## What you can do
 
@@ -40,7 +41,8 @@ Its functions: It acts as a history of everything you copy on your PC, organized
 
 ## Notch image
 On the right side of my Windows screen, you can see the app's notch—a quick-access area for app tabs—which features a smooth, fluid animation.
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/002f42a8-66d9-4f8f-a3e8-69a2005b72ad" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c2ca6d8b-cdac-4d1e-9e56-1f6ac1d78485" />
+
 
 ## Image of the app's settings tab
 <img width="1136" height="779" alt="image" src="https://github.com/user-attachments/assets/3b1c546a-75c2-44c6-b6c3-803e80b8f0d7" />
