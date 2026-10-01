@@ -1,3 +1,7 @@
+<img width="833" height="194" alt="Ghost_833x194" src="https://github.com/user-attachments/assets/6bc23416-6230-463f-9c50-1eb433b4ff65" />
+
+
+
 ### Less searching. Faster access to what you use every day.
 
 Ghost is a portable productivity hub for Windows that brings together prompts, Markdown files, websites, procedures, and applications in one place. Organize your content by category, find what you need via global search, and access your tools using the "notch" on the edge of your screen.
