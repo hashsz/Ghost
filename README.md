@@ -4,7 +4,7 @@ Ghost é uma central de produtividade portátil para Windows que reúne prompts,
 
 **Windows x64 · Portátil · Dados locais · Interface personalizável**
 
-[⬇️ Baixar Ghost para Windows](https://github.com/SEU-USUARIO/ghost/releases/latest/download/Ghost-Portable.zip) · [Ver versões](https://github.com/SEU-USUARIO/ghost/releases) · [Relatar um problema](https://github.com/SEU-USUARIO/ghost/issues)
+[⬇️ Baixar Ghost para Windows]([https://github.com/SEU-USUARIO/ghost/releases/latest/download/Ghost-Portable.zip](https://drive.google.com/file/d/1zZu0Pie0yuEKfx-Dxh8Ku2iZHMlJwd8p/view?usp=sharing)) · [Ver versões](https://github.com/SEU-USUARIO/ghost/releases) · [Relatar um problema](https://github.com/SEU-USUARIO/ghost/issues)
 
 ## O que você pode fazer
 
