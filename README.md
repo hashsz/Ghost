@@ -8,7 +8,7 @@ Ghost is a portable productivity hub for Windows that brings together prompts, M
 
 **Windows x64 · Portable · Local data · Customizable interface**
 
-## ⬇️ [𝔻𝕠𝕨𝕟𝕝𝕠𝕒𝕕](https://drive.google.com/file/d/1H-itoHjkluuBr2MX0LoebHSS_gWjGp0p/view?usp=sharing)
+## ⬇️ [𝔻𝕠𝕨𝕟𝕝𝕠𝕒𝕕](https://drive.google.com/file/d/1Cacn3GnYEuoYPIf9Ng4hxIJuEKD9gCE3/view?usp=sharing)
 
 ## What you can do
 
